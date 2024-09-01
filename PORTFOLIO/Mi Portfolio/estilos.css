@@ -12,13 +12,13 @@ body{
 }
 
 h1{
-    font-size: 100px;
+    font-size: 7vw;
     /* color: rgb(59, 59, 59); */
 }
 
 h2{
-    font-size: 22px;
-    margin-top: 20px;
+    font-size: 3vw;
+    margin-top: 2vw;
     /* color: rgb(59, 59, 59); */
 }
 
@@ -31,7 +31,7 @@ h3{
     background-color: pink;
 }
 
-#inicio {
+#inicio{
     margin-top: 12%;
     margin-bottom: 20%;
 }
@@ -42,14 +42,13 @@ h3{
     text-align-last: center;
 }
 
-.secciones{
+div.secciones{
     text-align: left;
-    padding: 20px;
-    margin-bottom: 20px;
-    width: 900px;
-    border-radius: 15px;
+    padding: 2%;
+    margin-bottom: 4%;
+    width: 90%;
+    border-radius: 7%;
     background-color: rgba(255, 255, 255, 0.493);
-    /* color: #000000; */
 }
 
 
